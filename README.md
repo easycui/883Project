@@ -1,4 +1,4 @@
-# 883Project
+# social network link prediction
 The version of networkx we use is 1.10.
 
 Please read the run.py first.
